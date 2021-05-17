@@ -1,3 +1,3 @@
 # Intelligent Systems
 
-Labs of Intelligent Systems using MATLAB (DO NOT COPY)
+Labs of Intelligent Systems (ELE888) using MATLAB (DO NOT COPY)
